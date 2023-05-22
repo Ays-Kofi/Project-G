@@ -72,6 +72,9 @@
 
 * https://forestry.denr.gov.ph/index.php/statistics/philippines-forestry-statistics
 * https://rainforests.mongabay.com/deforestation/archive/Philippines.htm
-* 
+* https://www.un.org/sustainabledevelopment/biodiversity/
+* https://psa.gov.ph/sites/default/files/2.4.2%20Caraga%20Land%20and%20Timber%20Asset%20Accounts%20Challenges%20and%20Approaches.pdf
+* https://psa.gov.ph/system/files/phdsd/Goal%2015_PH%20SDG_as%20of%2018Oct2019.pdf
+* https://www.green.earth/blog/the-philippines-battle-against-deforestation-progress-and-challenges
 
 
