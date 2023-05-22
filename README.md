@@ -40,6 +40,8 @@
 
 <h3>SIGNIFICANCE OF THE PROPOSED PROJECT</h3> 
 
+![PROJECT G! Significance](https://github.com/Ays-Kofi/Project-G/assets/95678168/3f8696f2-102d-4e38-a4af-fd2f257fa417)
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>This study holds significant value for students, communities, and future researchers. Firstly, students can benefit from the study's findings and recommendations by gaining a deeper understanding of the issue of deforestation and the importance of sustainable forest management. It provides them with a foundation for further exploration and encourages them to become proactive in addressing environmental challenges.</p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Communities can also benefit from this study as it highlights the crucial role they play in protecting forests and biodiversity. By raising awareness about the value of forests and their conservation, the study empowers communities to take action and participate in initiatives such as reforestation programs and reporting illegal logging activities. It encourages community engagement and fosters a sense of responsibility towards environmental stewardship.</p>
@@ -56,7 +58,10 @@
 ***
 
 <h3>Solution to the Problem</h3>
-  
+
+![PROJECT G! Solution](https://github.com/Ays-Kofi/Project-G/assets/95678168/dd5a2410-8614-4da2-a105-7b1400aa99f6)
+
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To combat deforestation and safeguard ecosystems, the Philippines must prioritize the implementation and enhancement of sustainable forest management practices. This entails emphasizing reforestation and afforestation efforts, bolstering enforcement of stringent regulations against illegal logging, and fostering widespread awareness about the critical value of forests and their preservation. Furthermore, it is crucial to foster collaboration among government agencies, local communities, and non-governmental organizations to facilitate effective and sustainable management of protected areas and biodiversity hotspots.<p>
 
 ***
