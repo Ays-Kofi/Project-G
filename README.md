@@ -42,11 +42,11 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>This study holds significant value for students, communities, and future researchers. Firstly, students can benefit from the study's findings and recommendations by gaining a deeper understanding of the issue of deforestation and the importance of sustainable forest management. It provides them with a foundation for further exploration and encourages them to become proactive in addressing environmental challenges.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>To the Local Government Unit (LGU).</strong> This will help them analyze the data and identify the particular areas and age groups that Dengue most frequently affects in their locality. Additionally, it will enhance their response and motivate them to put policies in place to stop dengue cases in nearby municipalities and barangays. Create initiatives with the help of the federal government, including the Department of Health (DOH).</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Communities can also benefit from this study as it highlights the crucial role they play in protecting forests and biodiversity. By raising awareness about the value of forests and their conservation, the study empowers communities to take action and participate in initiatives such as reforestation programs and reporting illegal logging activities. It encourages community engagement and fosters a sense of responsibility towards environmental stewardship.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>To the Citizens and the Community.</strong> The project can help the citizens and community by providing data and information on how they can prevent dengue cases. It can especially help the parents and guardians. This would teach parents and guardians on how to keep their families safe by working with their own local barangay and town officials and helping LGUs maintain their environment. The proper safety of their children's health should be a parent's or guardian's first priority and duty.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>For future researchers, this study provides a valuable starting point and reference for conducting further research on deforestation and sustainable forest management in the Philippines. It identifies gaps in knowledge and suggests areas that require more in-depth investigation, such as the socio-economic impacts of deforestation and the effectiveness of various conservation strategies. By building upon the findings of this study, future researchers can contribute to the development of more comprehensive solutions and policies to end deforestation.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>To the Future Researchers.</strong> The information and analysis available in this study that is created by the proponents can help the future researchers to better understand the problem regarding dengue. The project can guide them and provide needed data for a more in-depth study. This can give them an overview about the topic on how the Philippines is dealing with the rising cases of dengue.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Overall, this study has a significant impact on students, communities, and future researchers by promoting awareness, inspiring action, and guiding further research in the ongoing battle against deforestation.</p>
 
 ***
 
@@ -55,13 +55,13 @@
 
 ***
 
-<h3>EXPECTED OUTPUT</h3>
+<h3>Solution to the Problem</h3>
   
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project intends to educate people about the dengue epidemic in the Philippines. It will contain the information regarding how many cases have been recorded in the past years, why and what causes dengue to be present in an environment, and what steps will be taken to avoid the rise of dengue cases. The data gathered and results from this project can help anyone who will view or use it for future research. This can help the future researchers, the Department of Health, the Local Government Unit such as the barangay, and the health care workers as well. Through the gathered data in this project, the Department of health can use it to better understand the problem regarding dengue. This can help them to provide guidelines and better solutions or steps on how each community can avoid having a high percentage of dengue cases. Issuing those guidelines and steps on how to be safe from being bitten by a dengue mosquito to communities can help in curbing the dengue cases down.<p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To combat deforestation and safeguard ecosystems, the Philippines must prioritize the implementation and enhancement of sustainable forest management practices. This entails emphasizing reforestation and afforestation efforts, bolstering enforcement of stringent regulations against illegal logging, and fostering widespread awareness about the critical value of forests and their preservation. Furthermore, it is crucial to foster collaboration among government agencies, local communities, and non-governmental organizations to facilitate effective and sustainable management of protected areas and biodiversity hotspots.<p>
 
 ***
 
-![3K](https://user-images.githubusercontent.com/114730442/236314081-a528b761-9607-447a-a7b8-824aa6b9fcd8.png)
+
 
 
 
