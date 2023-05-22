@@ -4,7 +4,7 @@
 
 
 
-![PROJECT G! banner](https://github.com/Ays-Kofi/Project-G/assets/95678168/ae7ce70d-3c09-4594-846c-6758e651437a)
+![PROJECT G! Introduction](https://github.com/Ays-Kofi/Project-G/assets/95678168/5c544fe1-8a24-49b5-a2ca-d46d4b3f380a)
 
 # <h2 align="center">Project G: Transforming the Philippines' Landscape for Biodiversity Recovery and Sustainable Land Management, Paving the Way for SDG 15</h2>
 
