@@ -70,8 +70,8 @@
 ***
 <h3>REFERENCES</h3>
 
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9249805/?fbclid=IwAR1Jq5-PfehUoWZmvDiKih2bHsqDknTovroP4HZfk6j_OTVg9dv30qFJRz4#bib0001
-* https://www.ncbi.nlm.nih.gov/books/NBK430732/
-* https://www.who.int/docs/default-source/wpro---documents/emergency/surveillance/dengue/dengue_20230413.pdf?sfvrsn=b4a28654_61
+* https://forestry.denr.gov.ph/index.php/statistics/philippines-forestry-statistics
+* https://rainforests.mongabay.com/deforestation/archive/Philippines.htm
+* 
 
 
