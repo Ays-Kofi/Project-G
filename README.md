@@ -25,7 +25,7 @@
 ![PROJECT G! SDG](https://github.com/Ays-Kofi/Project-G/assets/95678168/a40d1deb-9c96-464e-be38-ccd4c1b3bcce)
 
 
-<p align="center"><strong>Goal 15: Good Health and Well-Being</strong></p>
+<p align="center"><strong>Goal 15: Life on Land</strong></p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal 15 is about conserving life on land. It is to protect and restore terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and stop biodiversity loss. Healthy ecosystems and the biological diversity they support are a source of food, water, medicine, shelter and other material goods. They also provide ecosystem services – the cleaning of air and water – which sustain life and increase resiliency in the face of mounting pressures.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nevertheless, human activities have profoundly altered most terrestrial ecosystems: around 40,000 species are documented to be at risk of extinction over the coming decades, 10 million hectares of forest (an area the size of Iceland) are being destroyed each year, and more than half of key biodiversity areas remain unprotected.
 </p>
