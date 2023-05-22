@@ -17,7 +17,7 @@
 
 ***
 
-![Uploading PROJECT G! Introduction.png…]()
+![PROJECT G! Introduction](https://github.com/Ays-Kofi/Project-G/assets/95678168/2da731ac-2813-4bae-830d-aecc16b78235)
 
 
 <h3>INTRODUCTION</h3>
