@@ -33,7 +33,7 @@
 
 ***
 
-<h3>PROBLEM STATEMENT:</h3>
+<h3>PROBLEM STATEMENT</h3>
 
 ![PROJECT G! Project Statement (2)](https://github.com/Ays-Kofi/Project-G/assets/95678168/08186291-0061-4b62-b6bb-8fdff0ac1f3c)
 
