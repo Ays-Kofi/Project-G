@@ -42,7 +42,7 @@
 
 ***
 
-<h3>SIGNIFICANCE OF THE PROPOSED PROJECT</h3> 
+<h3 align="center">SIGNIFICANCE OF THE PROPOSED PROJECT</h3> 
 
 ![PROJECT G! Significance](https://github.com/Ays-Kofi/Project-G/assets/95678168/3f8696f2-102d-4e38-a4af-fd2f257fa417)
 
