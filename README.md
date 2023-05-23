@@ -81,7 +81,7 @@
 
 
 ***
-<h3>REFERENCES</h3>
+<h3 align="center">REFERENCES</h3>
 
 ![PROJECT G! Refences](https://github.com/Ays-Kofi/Project-G/assets/95678168/34e732fd-fd26-45d8-8470-66e3292a87d5)
 
