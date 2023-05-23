@@ -19,7 +19,7 @@
 
 ***
 
-<h3>SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
+<h3 align="center">SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
 
 ![PROJECT G! SDG](https://github.com/Ays-Kofi/Project-G/assets/95678168/a40d1deb-9c96-464e-be38-ccd4c1b3bcce)
 
