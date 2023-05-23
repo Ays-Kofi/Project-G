@@ -65,7 +65,7 @@
 
 ***
 
-<h3>Solution to the Problem</h3>
+<h3 align="center">Solution to the Problem</h3>
 
 ![PROJECT G! Solution](https://github.com/Ays-Kofi/Project-G/assets/95678168/dd5a2410-8614-4da2-a105-7b1400aa99f6)
 
