@@ -9,6 +9,7 @@
 ![PROJECT G! Introduction](https://github.com/Ays-Kofi/Project-G/assets/95678168/5c544fe1-8a24-49b5-a2ca-d46d4b3f380a)
 
 
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The United Nations Sustainable Development Goal 15 (UN SDG 15) focuses on protecting terrestrial ecosystems, combating desertification, halting land degradation, and preserving biodiversity. In the Philippines, SDG 15 assumes great importance due to the country's rich biodiversity and natural resources. In 2022, the Philippines made progress in implementing SDG 15 through initiatives such as reforestation, sustainable land management, and the establishment of protected areas. Challenges persist, including inadequate funding, limited monitoring capacity, and the need for greater stakeholder participation.</p>
 
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Philippines has taken significant steps to address SDG 15 targets. Efforts include reforestation programs, sustainable land management practices, and protected area establishment. Combatting deforestation, land degradation, and habitat loss are key focuses. The country also promotes sustainable land use by implementing responsible agricultural practices and encouraging agroforestry. Preserving biodiversity is prioritized through protected areas, wildlife conservation laws, and community-based initiatives.</p>
