@@ -62,7 +62,7 @@
 ![PROJECT G! Methods](https://github.com/Ays-Kofi/Project-G/assets/95678168/0462715f-4df0-40d3-ac15-cd4ca10eecd0)
 
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The researchers will gather, organize, and use available data-sets such as those provided from Our World in Data to analyze the rising cases of dengue in the Philippines. The categories such as month, year, region, and number of dengue cases will be available in the said data-sets. These data-sets can help the researchers to understand how and when, during what months these cases of dengue are rising the most. All members of the Literature Review Group have access to the original data sources and extraction tables for them to be able to review and analyze it more anytime, anywhere.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The researchers will gather, organize, and use available data-sets such as those provided from Our World in Data to analyze the deforestration rate in the Philippines. The categories such as year, region, and total number of forest cover, deforestration cover and biodiversity hotspot will be available in the said data-sets. All members of the Literature Review Group have access to the original data sources and extraction tables for them to be able to review and analyze it more anytime, anywhere.</p>
 
 ***
 
