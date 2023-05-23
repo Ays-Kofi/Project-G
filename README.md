@@ -34,7 +34,12 @@
 ***
 
 <h3>PROBLEM STATEMENT:</h3>
+
+![PROJECT G! Project Statement (2)](https://github.com/Ays-Kofi/Project-G/assets/95678168/08186291-0061-4b62-b6bb-8fdff0ac1f3c)
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Philippines is struggling to meet the targets set by UN Sustainable Development Goal 15 due to ongoing deforestation. Despite conservation efforts, the country continues to experience significant loss of forest cover, which has negative consequences for biodiversity and ecosystem services. Deforestation, driven by activities like agriculture, logging, and urban expansion, leads to habitat destruction and species extinction. Forests play a crucial role in regulating the climate and providing essential ecosystem services such as freshwater supply, soil erosion prevention, and air and water purification. Inadequate enforcement, weak governance, and limited resources for conservation exacerbate the problem. To address deforestation effectively, the Philippines needs to prioritize the preservation and sustainable management of forests, including stronger law enforcement, reforestation initiatives, community involvement, and the exploration of sustainable livelihood options.</p>
+
+![PROJECT G! problem](https://github.com/Ays-Kofi/Project-G/assets/95678168/4bf383b5-cafc-423a-9b6d-94c62390de60)
 
 ***
 
