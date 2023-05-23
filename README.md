@@ -56,7 +56,7 @@
 
 ***
 
-<h3>METHODS</h3>
+<h3 align="center">METHODS</h3>
 
 ![PROJECT G! Methods](https://github.com/Ays-Kofi/Project-G/assets/95678168/0462715f-4df0-40d3-ac15-cd4ca10eecd0)
 
