@@ -4,6 +4,14 @@
 
 # <h2 align="center">Project Title: Project G: Transforming the Philippines' Landscape for Biodiversity Recovery and Sustainable Land Management, Paving the Way for SDG 15</h2>
 
+
+#
+##
+# Powerpoint Presentation
+## https://docs.google.com/presentation/d/1I4-fRqc3WVLhi3aRxxI78X4glUKGwdfU/edit?usp=sharing&ouid=117258827083967069650&rtpof=true&sd=true
+
+
+
 ***
 
 ![PROJECT G! Introduction](https://github.com/Ays-Kofi/Project-G/assets/95678168/5c544fe1-8a24-49b5-a2ca-d46d4b3f380a)
