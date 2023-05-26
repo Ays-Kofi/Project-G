@@ -11,7 +11,6 @@
 ## https://bit.ly/3OFXUp9
 
 
-
 ***
 
 ![PROJECT G! Introduction](https://github.com/Ays-Kofi/Project-G/assets/95678168/5c544fe1-8a24-49b5-a2ca-d46d4b3f380a)
