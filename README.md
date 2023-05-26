@@ -8,7 +8,7 @@
 #
 ##
 # Powerpoint Presentation
-## [Presentation] (https://bit.ly/3OFXUp9)
+## https://bit.ly/3OFXUp9
 
 
 
